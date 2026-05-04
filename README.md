@@ -111,6 +111,8 @@ The included `data/sample_data.csv` contains a representative 30-row sample from
 
 > **Note**: The sample dataset is provided for code verification. For full reproducibility, the complete dataset is available upon request from the corresponding author.
 
+Detailed data documentation, including file-level metadata, variable definitions, preprocessing notes, and reproducibility scope, is provided in [`metadata.md`](metadata.md).
+
 ## Configuration
 
 All parameters are centralized in `config/settings.py`:
